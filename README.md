@@ -2,7 +2,7 @@
 Just learning for fun.
 - React
 - Babel
-- Mocha
+- {Enzyme, Chai, Sinon)
 - Eslint
 - Webpack
 
