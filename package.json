@@ -21,6 +21,7 @@
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.4.4",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
     "@babel/preset-env": "^7.4.4",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.4.4",
@@ -46,7 +47,7 @@
     "sinon": "^7.3.2"
   },
   "bugs": {
-    "url": "https://github.com/stould/ReactTutorial/issues"
+    "url": "https://github.com/stould/Triagem-Sarampo/issues"
   },
-  "homepage": "https://github.com/stould/ReactTutorial#readme"
+  "homepage": "https://github.com/stould/Triagem-Sarampo#readme"
 }

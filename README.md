@@ -1,4 +1,4 @@
-# My First React app
+# My React lab
 Just learning for fun.
 - React
 - Babel
