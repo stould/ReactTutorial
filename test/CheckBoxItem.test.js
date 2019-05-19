@@ -15,7 +15,7 @@ describe('Testing CheckBoxItem component rendering', function() {
 
     const checkBoxItem = () => {
         if (!mountedCheckBoxItem) {
-            mountedCheckBoxItem = mount(
+            mountedCheckBoxItem = shallow(
                 <CheckBoxItem {...props} />
             );
         }
