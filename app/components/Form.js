@@ -11,7 +11,7 @@ class Form extends Component {
     }
 
     //callBack handler from CheckBoxItem
-    _onChange(index, isChecked) {
+    _onChange = (index, isChecked) => {
         this.setState(() => {
             const newIsChecked = this.state.isChecked.slice();
             newIsChecked[index] = isChecked;
