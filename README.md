@@ -2,7 +2,7 @@
 Just learning for fun.
 - React
 - Babel
-- {Enzyme, Chai, Sinon)
+- {Enzyme, Chai, Sinon) - Testing
 - Eslint
 - Webpack
 
