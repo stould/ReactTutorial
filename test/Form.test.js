@@ -72,7 +72,7 @@ describe('Testing Form component', function() {
         const checkbox0 = () => form().find('input').at(0);
         const checkbox1 = () => form().find('input').at(1);
 
-        checkbox0().simulate('change', { target: { checked: true } });
+        checkbox0().simulate('click');
         expect(checkbox0().props().checked).to.equal(true);
         expect(checkbox1().props().checked).to.equal(false);
 
