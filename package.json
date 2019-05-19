@@ -12,9 +12,15 @@
     "url": "git+https://github.com/stould/ReactTutorial.git"
   },
   "keywords": [
-    "react",
-    "javascript",
-    "test"
+    "React",
+    "Javascript",
+    "Babel",
+    "Enzyme",
+    "Chai",
+    "Sinon",
+    "Test",
+    "Eslint",
+    "Webpack"
   ],
   "author": "Vinícius Zibetti Reskoi",
   "license": "ISC",
